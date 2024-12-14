@@ -1,6 +1,6 @@
 ## Hi there 👋
-My name is Olufunke Alice
-<!--
+My name is Olufunke Alice. I am a data analyst
+
 **Olufunke9/Olufunke9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
